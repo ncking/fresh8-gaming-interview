@@ -14,7 +14,7 @@ module.exports = function (data) {
          * 
          */
         getStars: function () {
-            return Number(this.get('stargazers_count'));
+            return Math.floor(this.get('stargazers_count'));
         }
     }
 }
