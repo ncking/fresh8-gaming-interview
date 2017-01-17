@@ -1,7 +1,7 @@
-# [Fresh8Gaming] AKA [Connected Ventures] Bristol interview test - Nigel King
+# [Fresh8Gaming] interview task
 
 
-Project is structured with Github, as a component
+Project is structured with `Github`, as a component (views / models / repository) grouped in same folder
 
 ## Time
 1:20min
