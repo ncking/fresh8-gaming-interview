@@ -1,6 +1,6 @@
-# [Fresh8Gaming] interview task
+# JavaScript interview task
 
-
+[Fresh8Gaming] AKA [Connected Ventures] Bristol, interview task
 Project is structured with `Github`, as a component (views / models / repository) grouped in same folder
 
 ## Time
